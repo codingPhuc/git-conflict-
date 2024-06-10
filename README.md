@@ -1,4 +1,4 @@
 # git-conflict-
-DƠI
-SÓI
-QUỶ
+nhện
+rắn
+cào cào
