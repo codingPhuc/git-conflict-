@@ -1,4 +1,4 @@
 # git-conflict-
-nhện
-rắn
-cào cào
+gấu
+tê giác
+voi
